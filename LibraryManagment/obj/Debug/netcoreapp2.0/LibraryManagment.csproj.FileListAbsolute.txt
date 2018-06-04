@@ -1,0 +1,11 @@
+c:\users\startech\source\repos\LibraryManagment\LibraryManagment\bin\Debug\netcoreapp2.0\LibraryManagment.deps.json
+c:\users\startech\source\repos\LibraryManagment\LibraryManagment\bin\Debug\netcoreapp2.0\LibraryManagment.runtimeconfig.json
+c:\users\startech\source\repos\LibraryManagment\LibraryManagment\bin\Debug\netcoreapp2.0\LibraryManagment.runtimeconfig.dev.json
+c:\users\startech\source\repos\LibraryManagment\LibraryManagment\bin\Debug\netcoreapp2.0\LibraryManagment.dll
+c:\users\startech\source\repos\LibraryManagment\LibraryManagment\bin\Debug\netcoreapp2.0\LibraryManagment.pdb
+c:\users\startech\source\repos\LibraryManagment\LibraryManagment\obj\Debug\netcoreapp2.0\LibraryManagment.csprojResolveAssemblyReference.cache
+c:\users\startech\source\repos\LibraryManagment\LibraryManagment\obj\Debug\netcoreapp2.0\LibraryManagment.csproj.CoreCompileInputs.cache
+c:\users\startech\source\repos\LibraryManagment\LibraryManagment\obj\Debug\netcoreapp2.0\LibraryManagment.AssemblyInfoInputs.cache
+c:\users\startech\source\repos\LibraryManagment\LibraryManagment\obj\Debug\netcoreapp2.0\LibraryManagment.AssemblyInfo.cs
+c:\users\startech\source\repos\LibraryManagment\LibraryManagment\obj\Debug\netcoreapp2.0\LibraryManagment.dll
+c:\users\startech\source\repos\LibraryManagment\LibraryManagment\obj\Debug\netcoreapp2.0\LibraryManagment.pdb
